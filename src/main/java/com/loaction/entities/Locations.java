@@ -30,7 +30,7 @@ public class Locations {
 
 	private String type;
 
-	
+	//here i added a comment
 	
 
 }
